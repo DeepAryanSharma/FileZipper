@@ -26,5 +26,15 @@ This project implements a Huffman coding tool to compress and decompress text fi
    git clone https://github.com/yourusername/huffman-compression-tool.git
    cd huffman-compression-tool
    
+2. **Compile the Code:**
+    ```sh
+    g++ -o huffman_compressor encode.cpp huffman.cpp
+   g++ -o huffman_decompressor decode.cpp huffman.cpp
+
+3.**Run the Program:**
+   ```sh
+   ./huffman_compressor input.txt compressed.huf
+   ./huffman_decompressor compressed.huf output.txt
+
 
    
