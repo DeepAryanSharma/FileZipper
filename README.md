@@ -1,4 +1,4 @@
-# Huffman Compression Tool
+# FileZipper
 
 ## Overview
 This project implements a Huffman coding tool to compress and decompress text files efficiently. The tool uses Huffman coding to reduce file sizes while maintaining data integrity.
@@ -23,7 +23,7 @@ This project implements a Huffman coding tool to compress and decompress text fi
 ### Compilation and Execution
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/huffman-compression-tool.git
+   git clone https://github.com/DeepAryanSharma/FileZipper-tool.git
    cd huffman-compression-tool
    
 2. **Compile the Code:**
@@ -35,6 +35,22 @@ This project implements a Huffman coding tool to compress and decompress text fi
     ```sh
     ./huffman_compressor input.txt compressed.huf
     ./huffman_decompressor compressed.huf output.txt
+
+## Usage
+Place the input file input.txt in the same directory as the executable. Run the compression program to generate the compressed file compressed.huf. Then, run the decompression program to restore the original file as output.txt.
+### Example:
+1. **Compile the Code:**
+
+2. **Compress the File:**
+
+3. **Decompress the File:**
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
+
+## Contact
+For any questions or feedback, please reach out to aryan153sharma@gmail.com .
+
 
 
    
