@@ -29,12 +29,12 @@ This project implements a Huffman coding tool to compress and decompress text fi
 2. **Compile the Code:**
     ```sh
     g++ -o huffman_compressor encode.cpp huffman.cpp
-   g++ -o huffman_decompressor decode.cpp huffman.cpp
+    g++ -o huffman_decompressor decode.cpp huffman.cpp
 
-3.**Run the Program:**
-   ```sh
-   ./huffman_compressor input.txt compressed.huf
-   ./huffman_decompressor compressed.huf output.txt
+3. **Run the Program:**
+    ```sh
+    ./huffman_compressor input.txt compressed.huf
+    ./huffman_decompressor compressed.huf output.txt
 
 
    
