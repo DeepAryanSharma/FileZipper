@@ -39,12 +39,16 @@ This project implements a Huffman coding tool to compress and decompress text fi
 ## Usage
 Place the input file input.txt in the same directory as the executable. Run the compression program to generate the compressed file compressed.huf. Then, run the decompression program to restore the original file as output.txt.
 ### Example:
+
 **Compress the File:**
+
 ![Compression](https://github.com/DeepAryanSharma/FileZipper/blob/main/ImplementationScreenshots/compression.png)
 ![InputFileSIze](https://github.com/DeepAryanSharma/FileZipper/blob/main/ImplementationScreenshots/inputFileSize.png)
 ![CompressedFileSize](https://github.com/DeepAryanSharma/FileZipper/blob/main/ImplementationScreenshots/compressedFileSize.png)
 
+
 **Decompress the File:**
+
 ![Decompression](https://github.com/DeepAryanSharma/FileZipper/blob/main/ImplementationScreenshots/decompression.png)
 ![OutputFileSize](https://github.com/DeepAryanSharma/FileZipper/blob/main/ImplementationScreenshots/outputFileSize.png)
 
